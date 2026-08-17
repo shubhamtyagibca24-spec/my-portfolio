@@ -5,7 +5,7 @@ import Skills from "./skills";
 import Projects from "./project";
 import Education from "./education";
 import Contact from "./contact";
-import useScrollReveal from "./useScrollReveal";
+import useScrollReveal from "./useScrollreveal";
 
 function App() {
   useScrollReveal();
