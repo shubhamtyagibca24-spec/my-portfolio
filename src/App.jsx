@@ -6,7 +6,7 @@ import Projects from "./project";
 import Education from "./education";
 import Contact from "./contact";
 import useScrollReveal from "./useScrollReveal";
-import bgImage from "./assets/background.png";
+
 function App() {
   useScrollReveal();
 
