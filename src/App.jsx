@@ -5,10 +5,10 @@ import Skills from "./skills";
 import Projects from "./project";
 import Education from "./education";
 import Contact from "./contact";
-import useScrollReveal from "./usescrollReveal";
+import Scroll from "./scroll";
 
 function App() {
-  useScrollReveal();
+  Scroll();
 
   return (
     <>
